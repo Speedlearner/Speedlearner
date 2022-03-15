@@ -1,10 +1,10 @@
 ### Hi, I’m Ken - AKA [Data Analyst] 
-- 👀 I’m interested in ...
+- 👀 My focus area is in Data Automation and Visualization, but I am always open to learning new technologies and stacks!
 - 🌱 I’m currently learning SQL,Python and BI Tools
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me? 
   - WeChat:ken360
-  - Whatsapp: +65 94335579 
+  - Whatsapp:+65 94335579 
 
 <!---
 Speedlearner/Speedlearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
